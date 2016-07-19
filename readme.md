@@ -58,9 +58,9 @@ Single Page App Wireframe Concept
 ​
 ​
 ##Developers
-​
-[Sasha-Shae Weekes](https://github.com/afroniquely)
-[Supritkumar Shah](https://github.com/supritshah1289/)
-[Fizal Sarif](https://github.com/fizal619)
-[David Maul](https://github.com/dmaul12)
-​
+
+  * [Sasha-Shae Weekes](https://github.com/afroniquely)
+  * [Supritkumar Shah](https://github.com/supritshah1289/)
+  * [Fizal Sarif](https://github.com/fizal619)
+  * [David Maul](https://github.com/dmaul12)
+
