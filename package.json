@@ -1,0 +1,32 @@
+{
+  "name": "staycation",
+  "version": "1.0.0",
+  "description": "Group project where user can search on zip code and their budget to find things to do and place to stay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "staycation",
+    "NYC",
+    "React",
+    "APP",
+    "Express",
+    "Node",
+    "AirBnB",
+    "Foursquare",
+    "things",
+    "to",
+    "do"
+  ],
+  "author": "Supritkumar Shah, David Maul, Sasha-Shae Weekes, Fizal Sarif",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "pg-promise": "^5.2.2"
+  }
+}
