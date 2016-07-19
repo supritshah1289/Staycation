@@ -44,10 +44,10 @@ Have you ever wanted to go somewhere but you’re strapped for cash? Do you love
 ​
 ##Wireframes
 ​The React Components:
-![app components](http://imgur.com/ugpmvv9)
+![App Components](http://i.imgur.com/ugpmvv9.png)
 
 Single Page App Wireframe Concept
-![wireframe](http://imgur.com/5IbZ2Gr)
+![wireframe](http://i.imgur.com/5IbZ2Gr.png)
 
 ​
 ##Unsolved Problems/ Open Issues
