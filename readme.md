@@ -31,8 +31,8 @@ Have you ever wanted to go somewhere but you’re strapped for cash? Do you love
   
 ####APIs Used 
 ​
-  * Foursquare  
-  * Airbnb
+* Foursquare  
+* Airbnb
 ​
 ##General Approach
 ​
