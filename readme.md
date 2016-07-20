@@ -34,6 +34,11 @@ Have you ever wanted to go somewhere but you’re strapped for cash? Do you love
   * Foursquare  
   * Airbnb
 ​
+
+
+
+
+
 ##General Approach
 ​
 ​
